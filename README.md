@@ -1,6 +1,6 @@
 # Calculator App with Kotlin and Jetpack Compose
 
-<img src="https://github.com/samirpegado/banking-clone/blob/main/bankingclone.gif" width="200">
+<img src="https://github.com/samirpegado/calculator-app/blob/main/calculator.gif" width="200">
 
 Calculator App is a simple yet powerful calculator application developed using Kotlin and Jetpack Compose. Throughout this project, we had the opportunity to put several essential tools into practice, including ViewModel and States.
 
